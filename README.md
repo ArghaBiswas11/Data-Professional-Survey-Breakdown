@@ -17,7 +17,7 @@
 
 * **File Structure**
 
-### Project Overview
+# Project Overview
 The Data Professional Survey Breakdown Dashboard is a comprehensive Power BI report based on survey data from various data professionals across the world. The dashboard provides a breakdown of demographics, job roles, average salary, programming language preferences, and work-life satisfaction levels among data professionals.
 
 This project aims to highlight trends and insights regarding the career landscape for data professionals, allowing stakeholders to understand the distribution of roles, challenges faced in entering the field, and satisfaction metrics among survey participants.

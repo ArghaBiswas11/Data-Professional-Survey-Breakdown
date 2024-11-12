@@ -4,7 +4,7 @@
 
 ![Report](https://github.com/user-attachments/assets/46894119-81d3-4bf0-9f27-1992a7f0bf92)
 
-# Table of Contents
+# Table of Contents:
 * **Project Overview**
 
 * **Key Insights**
@@ -17,12 +17,12 @@
 
 * **File Structure**
 
-# Project Overview
+# Project Overview:
 The Data Professional Survey Breakdown Dashboard is a comprehensive Power BI report based on survey data from various data professionals across the world. The dashboard provides a breakdown of demographics, job roles, average salary, programming language preferences, and work-life satisfaction levels among data professionals.
 
 This project aims to highlight trends and insights regarding the career landscape for data professionals, allowing stakeholders to understand the distribution of roles, challenges faced in entering the field, and satisfaction metrics among survey participants.
 
-# Key Insights
+# Key Insights:
 ### Country of Survey Takers: 
 Most participants are from the United States and India, with other notable countries including the United Kingdom and Canada.
 ### Average Salary by Job Title: 
@@ -33,11 +33,12 @@ Python is the preferred programming language for data professionals, with a nota
 A significant portion of respondents found it "neither easy nor difficult" to enter the data profession, with a smaller group finding it "very easy" or "very difficult."
 ### Work-Life Balance & Salary Satisfaction: 
 Average work-life balance satisfaction scored 5.74 out of 10, while salary satisfaction scored 4.27 out of 10, indicating moderate satisfaction levels in these areas.
-# Data Sources
+
+# Data Sources:
 The dataset used in this analysis was sourced from
 Data_professional_survey.xlsx which contains survey responses from data professionals across different countries.
 
-# Dashboard Features
+# Dashboard Features:
 The dashboard is divided into several interactive sections for ease of analysis:
 
 ### Country of Survey Takers: 
@@ -55,7 +56,7 @@ A bar chart showing the popularity of programming languages segmented by job tit
 ### Difficulty to Break Into Data: 
 A donut chart summarizing how survey participants rated the difficulty of breaking into the data field.
 
-# Skills Demonstrated
+# Skills Demonstrated:
 This project demonstrates proficiency in the following areas:
 
 ### Data Visualization: 
@@ -66,12 +67,13 @@ Used DAX calculations to create custom measures for metrics such as average age 
 Imported and transformed survey data to build a structured data model within Power BI.
 ### Data Transformation: 
 Performed data cleaning and shaping tasks within Power BI to ensure data accuracy and relevance.
-# Usage
+
+# Usage:
 * To view or interact with this report, download the .pbix file and open it in Power BI Desktop.
 
 * Open the Data_Professional_Survey_Breakdown.pbix file in Power BI Desktop to explore the report and adjust filters as needed.
 
-# File Structure
+# File Structure:
 The project repository includes the following files:
 
 * **Data_Professional_Survey_Breakdown.pbix:** The Power BI dashboard file.
